@@ -92,7 +92,7 @@ docker ps
 Test:
 - `http://localhost:8087/health`
 - `http://localhost:8087/greeting?name=Local`
-- ![img_6.png](img_6.png)
+- ![img_6.png](docs/images/img_6.png)
 
 #### 3) Graceful shutdown (local)
 ```bash
@@ -232,11 +232,12 @@ Educational use.
 ---
 
 
-![img.png](img.png)
-![img_1.png](img_1.png)
-![img_2.png](img_2.png)
-![img_3.png](img_3.png)
-![img_4.png](img_4.png)
+![img.png](docs/images/img.png)
+![img_1.png](docs/images/img_1.png)
+![img_2.png](docs/images/img_2.png)
+![img_3.png](docs/images/img_3.png)
+![img_4.png](docs/images/img_4.png)
 - gracefull shutdowm
-![img_5.png](img_5.png)
-![img_7.png](img_7.png)
+![img_5.png](docs/images/img_5.png)
+![img_7.png](docs/images/img_7.png)
+![Diseño sin título.gif](../../../../../../../Downloads/Dise%C3%B1o%20sin%20t%C3%ADtulo.gif)
