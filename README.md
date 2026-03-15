@@ -240,4 +240,4 @@ Educational use.
 - gracefull shutdowm
 ![img_5.png](docs/images/img_5.png)
 ![img_7.png](docs/images/img_7.png)
-![Diseño sin título.gif](../../../../../../../Downloads/Dise%C3%B1o%20sin%20t%C3%ADtulo.gif)
+**Video**: https://youtu.be/M_yQh31j9j4
