@@ -240,4 +240,4 @@ Educational use.
 - gracefull shutdowm
 ![img_5.png](docs/images/img_5.png)
 ![img_7.png](docs/images/img_7.png)
-**Video**: https://youtu.be/M_yQh31j9j4
+**Video**: https://youtu.be/Nxt95IwTMug
